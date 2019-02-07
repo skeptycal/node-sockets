@@ -1,0 +1,20 @@
+{
+  "name": "node_sockets",
+  "version": "0.0.1",
+  "description": "Socket IO between Node.js and Browser Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "express",
+    "socket",
+    "io",
+    "server",
+    "client"
+  ],
+  "author": "Michael Treanor",
+  "license": "MIT"
+}
