@@ -16,5 +16,16 @@
     "client"
   ],
   "author": "Michael Treanor",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skeptycal/node-sockets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skeptycal/node-sockets/issues"
+  },
+  "homepage": "https://github.com/skeptycal/node-sockets#readme",
+  "dependencies": {
+    "requests": "^0.2.2"
+  }
 }
