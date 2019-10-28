@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/skeptycal/node-sockets#readme",
   "dependencies": {
-    "requests": "^0.2.2"
+    "requests": "^0.3.0"
   }
 }
